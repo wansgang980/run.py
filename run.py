@@ -313,7 +313,7 @@ def indo():
 
 #### PILIH INDO ####
 def pilih_indo():
-	teak = raw_input("\033[1;93mBY RikoMrko \033[91m:\033[1;96m ")
+	teak = raw_input("\033[1;93mBY WansGansXpL\033[91m:\033[1;96m ")
 	if teak =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih_indo()
